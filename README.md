@@ -26,8 +26,10 @@ This data set has two tables in it:
   - DeliveryDate: The date the product was delivered to the customer.
 
 
-> [!TIP]
-> The ipynb file has the EDA of the GlobalStore dataset which shows the if the dataset has null values or not(no null values in the dataset) with correlations between all the parameters of the dataset being highest for Sales and profit
+> [!NOTE]
+> - The ipynb file has the EDA of the GlobalStore dataset which shows if the dataset has null values or not(no null values in the dataset) with correlations between all the parameters of the dataset being highest for Sales and profit.
+> - There is also the market basket analysis of the GlobalStore dataset showing the sub-categories that are frequently purchased together.
+> - The analysis of Login_data shows the most loyal customers and also the days on which GlobalStore had the highest traffic.
 
 Following is the storytelling of the GlobalStore dataset using Tableau:
 
