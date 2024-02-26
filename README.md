@@ -9,7 +9,7 @@ This data set has two tables in it:
   - LogInDate: The date and time when the user logged into the platform.
 
 
-3. Purchase Log Table
+2. Purchase Log Table
 This table records details about customer purchases, which is crucial for understanding sales trends, customer preferences, and inventory management. Important fields might include:
 
   - PurchaseID: A unique identifier for each purchase transaction.
@@ -24,7 +24,17 @@ This table records details about customer purchases, which is crucial for unders
   - ShippingAddress: The address to which the product was shipped.
   - DeliveryDate: The date the product was delivered to the customer.
 
-![image](https://github.com/yuno-gen/GlobalStore/assets/81225964/e14bf8ff-3325-41cf-a9ee-e686e30bf496)
-![image](https://github.com/yuno-gen/GlobalStore/assets/81225964/585ca081-c97e-4357-9654-2bd0d9418df9)
-![image](https://github.com/yuno-gen/GlobalStore/assets/81225964/6289b7db-ca3d-4515-a63c-7c0ef1835be3)
+Following is the storytelling of GlobalStore dataset:
+
+This shows the sales over the years of GlobalStore from 2011-2014:
 ![image](https://github.com/yuno-gen/GlobalStore/assets/81225964/ca4b7bd5-590e-4859-a265-e58a28b84947)
+
+This bar chart shows the sales of each segment per region of the GlobalStore:
+![image](https://github.com/yuno-gen/GlobalStore/assets/81225964/6289b7db-ca3d-4515-a63c-7c0ef1835be3)
+
+This visualization shows the performance of each sub-category in terms of sales of the store as of whole:
+![image](https://github.com/yuno-gen/GlobalStore/assets/81225964/585ca081-c97e-4357-9654-2bd0d9418df9)
+
+This horizontal bar chart shows the comparison of shipping cost to the profit as per countries the GlobalStore is active in:
+![image](https://github.com/yuno-gen/GlobalStore/assets/81225964/e14bf8ff-3325-41cf-a9ee-e686e30bf496)
+
