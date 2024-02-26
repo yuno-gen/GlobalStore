@@ -1,4 +1,4 @@
-# GlobalStore
+# GlobalStore 🛒
 This data set has two tables in it:
 
 #1. Global Superstore Login Table
