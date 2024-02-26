@@ -2,13 +2,14 @@
 This data set has two tables in it:
 
 1. Global Superstore Login Table
-This table is designed to track user login activities, providing insights into customer engagement, frequency of visits, and potentially identifying peak usage times. Key fields in this table might include:
-UserID: A unique identifier for each user.
-Username: The user's chosen name or identifier for logging in.
-LogInDate: The date and time when the user logged into the platform.
+
+  This table is designed to track user login activities, providing insights into customer engagement, frequency of visits, and potentially identifying peak usage times. Key fields in this table might include:
+  a. UserID: A unique identifier for each user.
+  b. Username: The user's chosen name or identifier for logging in.
+  c. LogInDate: The date and time when the user logged into the platform.
 
 
-2. Purchase Log Table
+3. Purchase Log Table
 This table records details about customer purchases, which is crucial for understanding sales trends, customer preferences, and inventory management. Important fields might include:
 
 PurchaseID: A unique identifier for each purchase transaction.
