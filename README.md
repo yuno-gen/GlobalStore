@@ -25,7 +25,11 @@ This data set has two tables in it:
   - ShippingAddress: The address to which the product was shipped.
   - DeliveryDate: The date the product was delivered to the customer.
 
-Following is the storytelling of the GlobalStore dataset:
+
+> [!TIP]
+> The ipynb file has the EDA of the GlobalStore dataset which shows the if the dataset has null values or not(no null values in the dataset) with correlations between all the parameters of the dataset being highest for Sales and profit
+
+Following is the storytelling of the GlobalStore dataset using Tableau:
 
 This shows the sales over the years of GlobalStore from 2011-2014:
 ![image](https://github.com/yuno-gen/GlobalStore/assets/81225964/ca4b7bd5-590e-4859-a265-e58a28b84947)
